@@ -1,0 +1,4 @@
+# exclude anything except sources
+!*.c
+!*.cc
+!*.cpp
